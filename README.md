@@ -1,2 +1,2 @@
-# javascript-tips
-Thủ thuật trong javascript
+# Xử lý trong Javascript
+
