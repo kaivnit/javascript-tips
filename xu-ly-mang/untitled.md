@@ -37,7 +37,7 @@ var goal = [
            ]
 const pluck = key => array => Array.from(new Set(array.map(obj => obj[key])))
 const getCategorys = pluck('category')
-console.log(getCategorys(goal))
+console.log(getCategorys(goal));
 ```
 
 ```javascript
@@ -53,6 +53,8 @@ let result = goal.map(a => a.category);
 or
 
 let result = goal.map(({category}) => category);
+
+console.log(result);
 ```
 
 ```javascript
