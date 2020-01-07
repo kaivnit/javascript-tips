@@ -4,7 +4,7 @@ description: >-
   liệu của một thuộc tính trong một danh sách cho trước.
 ---
 
-# Pluck Javascript
+# 1.Pluck Javascript
 
 ## Cách 1: Sử dụng from\(\) và map\(\)
 
