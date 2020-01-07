@@ -8,7 +8,7 @@
 
 ## Xử lý mảng
 
-* [1.Pluck Javascript](xu-ly-mang/untitled.md)
+* [1.Pluck Javascript](xu-ly-mang/pluck-javascript.md)
 
 ## Experiences
 
