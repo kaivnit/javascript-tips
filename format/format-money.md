@@ -3,8 +3,8 @@
 ## Cách 1:
 
 ```javascript
-const money = num => num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
-console.log(money(120000))
+const money = num => num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+console.log(money(120000));
 ```
 
 ```javascript
