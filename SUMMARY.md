@@ -13,6 +13,7 @@
 ## Experiences
 
 * [1. Promise Javascript](experiences/1.-promise-javascript.md)
+* [2. Đọc file json](experiences/2.-doc-file-json.md)
 
 ## Format
 
