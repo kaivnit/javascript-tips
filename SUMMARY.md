@@ -14,6 +14,7 @@
 
 * [1. Promise Javascript](experiences/1.-promise-javascript.md)
 * [2. Đọc file json](experiences/2.-doc-file-json.md)
+* [3. Destructuring Javascript](experiences/3.-destructuring-javascript.md)
 
 ## Format
 
